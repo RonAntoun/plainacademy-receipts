@@ -1,6 +1,6 @@
 # PlainAcademy receipts
 
-AI, made plain. We check the hype and teach what works, from zero to advanced.
+AI, made plain. We check AI claims, tools and repos, and show you what holds up.
 
 This repository holds the evidence behind every PlainAcademy verdict. If you saw a verdict on Instagram, TikTok, Facebook or YouTube, its receipt is in `checks/`, named by date and topic.
 
