@@ -14,7 +14,7 @@
 2. [Any other source used]
 
 ## What we tested
-[Steps taken, in order. For repos: commands run in the sandbox, with versions.]
+[Steps taken, in order. For repos: the files and commits we read, with the commit hash.]
 
 ## What we found
 [Results, plainly. Include what failed and what we could not test.]

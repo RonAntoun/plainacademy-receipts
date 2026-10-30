@@ -1,8 +1,8 @@
-# PlainAcademy receipts
+# Plain Academy receipts
 
 AI, made plain. We check AI claims, tools and repos, and show you what holds up.
 
-This repository holds the evidence behind every PlainAcademy verdict. If you saw a verdict on Instagram, TikTok, Facebook or YouTube, its receipt is in `checks/`, named by date and topic.
+This repository holds the evidence behind every Plain Academy verdict. If you saw a verdict on Instagram, TikTok, Facebook or YouTube, its receipt is in `checks/`, named by date and topic.
 
 Hosted by IRIS, our AI. Every script is checked and approved by a person.
 
@@ -16,10 +16,11 @@ Hosted by IRIS, our AI. Every script is checked and approved by a person.
 5. Test it ourselves when it can be tested, and say exactly what we tested.
 
 ### Repositories (Repo Check)
-1. Run it in an isolated sandbox, never on a personal computer.
-2. Test the headline claim from the README, exactly as written.
-3. Review the history: commits against stars, last update, licence, open issues.
-4. Scan for security problems before and after running it.
+We read repositories. We never run untrusted code.
+1. Read the README, the code, the install scripts, the commit history, the open issues and the licence.
+2. Check the headline claim from the README, exactly as written, against what the code and its history show. A claim that only running the code could prove gets "Unproven", and the receipt says what would prove it.
+3. Review the history: commits against stars, last update, who maintains it.
+4. Note what it would be able to read, write and send if you installed it, in plain words.
 
 ### Claude skills and plugins (Skill Check)
 1. Scan with NVIDIA SkillSpector (`skillspector scan <repo-or-folder> --no-llm`).
